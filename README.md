@@ -131,7 +131,3 @@ Each student record stores the following fields:
 - [ ] Move into multiple files (header + source) for better structure
 
 ---
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
